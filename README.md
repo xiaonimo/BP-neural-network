@@ -13,5 +13,7 @@ a really simple version
     bp.data_normalization();
     bp.train_SGD();
     bp.predict();
-    ```
+    ```
+### Test
 - **1000** items to train, **200** items to test, accuracy>**0.9**
+- **36000** items to train, **4000** items to test, max_itr_all=10, learning_rate=0.01, min_loss=0.01, accuracy>0.96, cost 2 hours
