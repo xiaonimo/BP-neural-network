@@ -1,4 +1,5 @@
 # BP-neural-network
+### Introductions
 - just 3 layers, **input layer, hiden layer, output layer**
 - just **sigmoid** activaation function
 - download train data and test data from [kaggle](https://www.kaggle.com/c/3004/download/train.csv)
@@ -15,4 +16,4 @@
 
 ### Test
 - **1000** items to train, **200** items to test, accuracy>**0.9**
-- **36000** items to train, **4000** items to test, max_itr_all=10, learning_rate=0.01, min_loss=0.01, accuracy>0.96, cost 2 hours
+- **36000** items to train, **4000** items to test, max_itr_all=10, learning_rate=0.01, min_loss=0.01, accuracy>0.96, cost less than **2 hours**
